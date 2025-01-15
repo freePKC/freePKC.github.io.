@@ -7,7 +7,7 @@ theme: jekyll-theme-minimal
 # Testing
 ejghushg
 
-![Image of orange cat](/docs/assets/download (11).jpeg)
+![Image of orange cat](/docs/assets/cat_image.jpg)
 
 
 [Back To Home](README.md)
