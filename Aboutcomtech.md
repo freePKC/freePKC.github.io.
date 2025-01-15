@@ -1,7 +1,7 @@
 ---
 title: "About The Course"
 description: This course is about computers
-theme: jekyll-theme-minimal
+theme: jekyll-theme-midnight
 ---
 
 # Testing
