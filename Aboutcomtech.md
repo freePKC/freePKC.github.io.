@@ -1,6 +1,6 @@
 ---
-title: "About The Course"
-description: This course is about computers
+title: "Projects"
+description: Many Projects I Have Done Over The Years
 theme: jekyll-theme-minimal
 ---
 
