@@ -4,6 +4,9 @@ description: Many Projects I Have Done Over The Years
 theme: jekyll-theme-minimal
 ---
 
+# Projects
+## Many Projects I have done over the years.
+
 ### Bottle Rocket Project:
 - This was a project I did in Grade 9 Design Tech. It was the first project of the year and the goal was to make a bottle rocket that would launch the furthest and prevent a payload (egg) from cracking upon imapct. Below is an image of the rocket and the video of the successfull launch.
 
