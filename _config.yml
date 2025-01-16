@@ -1,4 +1,4 @@
 title: My Portfolio-Aariz
-logo: docs/assets/Logo.jpg
+logo: <img src="docs/assets/Logo.jpg" width="200" height="auto">
 description: By Aariz Marufi
 theme: jekyll-theme-minimal
