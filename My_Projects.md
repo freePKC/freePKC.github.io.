@@ -24,7 +24,7 @@ theme: jekyll-theme-minimal
 
 
 ### Roller Coaster Project:
-- This was a project I did in Grade 9 Design Tech. For this project, our goal was to build a functioning marble roller coaster and earn the highest score. Points were calculated on, number of loops, diameter of loops, time from top to bottom and height from top to bottom. With all this com,bined my group came first place. We also went to Wonderland for this project. Below is an image of the project.
+- This was a project I did in Grade 9 Design Tech. For this project, our goal was to build a functioning marble roller coaster and earn the highest score. Points were calculated on, number of loops, diameter of loops, time from top to bottom and height from top to bottom. With all this combined my group came first place. We also went to Wonderland for this project. Below is an image of the project.
 
 <img src="docs/assets/Roller_Coaster.jpg" width="200" height="auto">
 
