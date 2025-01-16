@@ -14,10 +14,10 @@ My name is Aariz Marufi, I am a Grade 10 High-School Student at Port Credit Seco
 ![Instagram Logo](docs/assets/Instagram_Logo)**Instagram:** [Instagram](https://www.instagram.com/aariz.marufi/)
 
 
-<img src="path-to-your-image.jpg" width="200" height="auto">
-<img src="path-to-your-image.jpg" width="200" height="auto">
-<img src="path-to-your-image.jpg" width="200" height="auto">
-<img src="path-to-your-image.jpg" width="200" height="auto">
+<img src="docs/assets/Gmail_Logo" width="200" height="auto">
+<img src="docs/assets/Phone_Logo" width="200" height="auto">
+<img src="docs/assets/Linkedin_Logo" width="200" height="auto">
+<img src="docs/assets/Instagram_Logo" width="200" height="auto">
 
 
 
