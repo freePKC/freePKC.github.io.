@@ -4,7 +4,7 @@ description: Many Projects I Have Done Over The Years
 theme: jekyll-theme-minimal
 ---
 
-<ins># Projects</ins>
+# Projects
 ## Many Projects I have done over the years:
 
 ### Bottle Rocket Project:
