@@ -14,8 +14,5 @@ My name is Aariz Marufi, I am a Grade 10 High-School Student at Port Credit Seco
 <img src="docs/assets/Instagram_Logo" width="50" height="auto"> **Instagram:** [Instagram](https://www.instagram.com/aariz.marufi/)
 
 
-
-
-
 # Pages:
 **[My Projects](My_Projects.md)**
