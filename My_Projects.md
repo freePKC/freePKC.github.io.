@@ -56,6 +56,7 @@ theme: jekyll-theme-minimal
 
 
 
+<img src="docs/assets/Business_booth.jpeg" width="200" height="auto">
 
 
 
