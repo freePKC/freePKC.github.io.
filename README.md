@@ -18,4 +18,4 @@ My name is Aariz Marufi, I am a Grade 10 High-School Student at Port Credit Seco
 
 
 # Pages:
-[My Projects](My_Projects.md)
+**[My Projects](My_Projects.md)**
