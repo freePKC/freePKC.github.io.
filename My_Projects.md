@@ -18,7 +18,7 @@ theme: jekyll-theme-minimal
 
 
 
-**------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
+**---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 
 
 
@@ -31,7 +31,7 @@ theme: jekyll-theme-minimal
 
 
 
-**------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
+**---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 
 
 
@@ -45,6 +45,14 @@ theme: jekyll-theme-minimal
 <img src="docs/assets/Water_Wheel_Background.jpg" width="200" height="auto">
 
 
+
+
+**---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
+
+
+
+### Business Project
+- In the final year of IBT, we were able to team up and create our own business. We had to handle everything such as the product idea, design, materials cost, expenses, marketing and selling of the product. This project we were given free rign on, no rules to follow we could do whatever we wanted. The only goal was to break even. My partner and I were able to accomplish this and make a profit of $300. Below is an image of the stall we used to display and sell our products.
 
 
 
