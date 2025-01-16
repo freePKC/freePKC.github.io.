@@ -30,4 +30,35 @@ theme: jekyll-theme-minimal
 
 
 
+
+**------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
+
+
+
+
+### Water Wheel Project:
+- This was a project I did during Grade 9 Design Tech. The goal of this project was to be bale to use either water or wind to generate power. We accomplished this using gears and motors. We then powered an LED which was attatched to a background to act as a "Bat Signal". My group generated a total of 2.1 Volts, most in the class. Below are some of the images from the project.
+
+
+<img src="docs/assets/Water_Wheel.jpg" width="200" height="auto">
+
+<img src="docs/assets/Water_Wheel_Background.jpg" width="200" height="auto">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [Back To Home](README.md)
