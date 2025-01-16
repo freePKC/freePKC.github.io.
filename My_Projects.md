@@ -11,7 +11,7 @@ theme: jekyll-theme-minimal
 <img src="docs/assets/Bottle_Rocket.jpg" width="200" height="auto">
 
 
-<video controls width="640" height="360">
+<video controls width="300" height="360">
   <source src="docs/assets/Rocket_Launch.mp4" type="video/mp4">
 </video>
 
