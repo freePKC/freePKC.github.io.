@@ -12,7 +12,7 @@ description: My hobbies and my intrests
 I have. There are other sports I like to watch such as Formula 1 and Football. ALthough I dont play these sports, they are greta to watch.
 
 
-![Volleyball](docs/assets/Volleyball) | ![Formula 1](docs/assets/Formula_1) | ![Football](docs/assets/Football) | ![Badminton](docs/assets/Badminton)
+![Volleyball](docs/assets/Volleyball) ![Formula 1](docs/assets/Formula_1) ![Football](docs/assets/Football) ![Badminton](docs/assets/Badminton)
 
 
 **[Back To Home](README.md)**
