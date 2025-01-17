@@ -14,5 +14,7 @@ description: These are a list of my achievements
 
 <img src="docs/assets/Indoor_Volleyball.jpg" width="200" height="auto">
 
+**[Back TO Home](README.md)**
 
+**[My Hobbies and Intrests](Hobbies_and_Intrests)**
 
