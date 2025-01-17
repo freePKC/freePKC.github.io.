@@ -62,15 +62,8 @@ theme: jekyll-theme-minimal
 <img src="docs/assets/Business_booth.jpeg" width="200" height="auto">
 
 
+**[Back To Home](README.md)**
 
+**[My Hobbies and Intrests](Hobbies_and_Intrests.md)**
 
-
-
-
-
-
-
-
-
-
-[Back To Home](README.md)
+**[My Achievements/Awards](Achievements.md)**
