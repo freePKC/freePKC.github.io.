@@ -16,5 +16,7 @@ description: These are a list of my achievements
 
 **[Back To Home](README.md)**
 
-**[My Hobbies and Intrests](Hobbies_and_Intrests)**
+**[My Hobbies and Intrests](Hobbies_and_Intrests.md)**
+
+**[My Projects](My_Projects.md)**
 
