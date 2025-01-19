@@ -23,9 +23,10 @@ description: These are a list of my achievements
 
 ### Acedemic Achievements:
 - I participated in the Waterloo Computing Competition and recieved a top 25% finish, below is the certificate.
+
+
 <img src="docs/assets/Math_Contest.jpg" width="200" height="auto" style="border: 2px solid black; border-radius: 5px;">
 
-<img src="docs/assets/Math_Contest.jpg" width="200" height="auto">
 
 **[Back To Home](README.md)**
 
