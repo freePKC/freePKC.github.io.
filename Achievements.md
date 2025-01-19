@@ -14,6 +14,18 @@ description: These are a list of my achievements
 
 <img src="docs/assets/Indoor_Volleyball.jpg" width="200" height="auto">
 
+
+
+
+**------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
+
+
+
+### Acedemic Achievements:
+- I participated in the Waterloo Computing Competition and recieved a top 25% finish, below is the certificate.
+
+<img src="docs/assets/Math_Contest.jpg" width="200" height="auto">
+
 **[Back To Home](README.md)**
 
 **[My Hobbies and Intrests](Hobbies_and_Intrests.md)**
